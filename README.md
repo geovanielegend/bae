@@ -1,4 +1,4 @@
-<p>the Basic Alias Editor terminal GUI</p>
+<p>the Bash Alias Editor terminal GUI</p>
 <img width="1265" height="813" alt="bae" src="https://github.com/user-attachments/assets/258b70fc-fe7e-45e7-a223-5b0d8a4dc99d" />
 <p>A python script that makes creating new command shortcuts simple</p>
 <p>No need to remember the command to edit you bash_aliases file or the format</p> 
@@ -9,7 +9,7 @@
   <pre>
 <span class="prompt">user@host:~$</span> <kbd>cd /your_dir_here</kbd>
 <span class="prompt">user@host:~$</span> <kbd>git clone https://github.com/geovanielegend/bae</kbd>
-<span class="prompt">user@demo:~$</span> <kbd>_</kbd>
+<span class="prompt">user@host:~$</span> <kbd>_</kbd>
   </pre>
 </figure>
 <p>Recommended folder is the ~/ default where terminal starts, I have included a bae.sh that you just need to make executable using</p>
@@ -17,7 +17,7 @@
   <figcaption>Terminal Session</figcaption>
   <pre>
 <span class="prompt">user@host:~$</span> <kbd>sudo chmod +x bae.sh</kbd>
-<span class="prompt">user@demo:~$</span> <kbd>_</kbd>
+<span class="prompt">user@host:~$</span> <kbd>_</kbd>
   </pre>
 </figure>
 <p>Once you have both files in place run it using /.bae.sh</p>
